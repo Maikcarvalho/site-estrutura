@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cornflowerblue;
+}
+
+.gif1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.gif2{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.nome{
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Quem{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#Biografia h2{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#Biografia{
+    display: flex;
+    text-align: justify;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#Times, #Estatisticas, #EstatisticasSelecao, #Titulos{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+#TitulosBarcelona, #TitulosPSG, #TitulosSelecao{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
